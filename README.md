@@ -7,3 +7,6 @@ Automates your browser to bulk add past weight measurements to MyFitnessPal,
 since they don't support imports
 
 # Not yet implemented
+
+## Requirements
+- `node` and `Chrome`/`Chromium` installed (this uses `puppeteer`)
