@@ -1,3 +1,5 @@
+# NOT MAINTAINED.
+
 # myfitnesspal-bulk-add-weight
 
 [![Build
